@@ -1,0 +1,64 @@
+.texto1 {
+    text-align: center;
+    padding: 60px 0;
+}
+
+.texto1 h3 {
+    color: rgba(0, 0, 0, 0.555);
+    font-size: medium;
+}
+
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.textocorpo h2 {
+    text-align: left;
+    display: inline-block;
+    padding-left: 20%;
+}
+.textocorpo p {
+    text-align: center;
+    font-size: larger;
+}
+
+ol {
+    font-size: larger;
+    padding-left: 15%;
+}
+
+li {
+    font-size: larger;
+}
+
+.textoP p {
+    font-size: larger;
+    margin-top: 7px;
+    margin-bottom: 40px;
+}
+
+header p {
+    margin: 100px;
+}
+
+nav {
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+    padding: 2%;
+    background-color: orangered;
+    background-size: 100%
+}
+
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    background-color: orangered;
+    padding: 5%;
+}
